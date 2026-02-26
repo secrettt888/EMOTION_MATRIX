@@ -2,7 +2,7 @@
 
 This is an interactive project built with an ESP32 and an 8x8 LED Matrix (MAX7219) that displays different facial expressions based on physical button presses.
 
-👩‍💻 **Authors:** [Țîmpău Cristiana-Maria &Șutu Fabian]
+👩‍💻 **Authors:** [ Țîmpău Cristiana-Maria &Șutu Fabian ]
 
 ## ✨ Features
 * Displays four different emotions corresponding to the 4 buttons: Happy, Sad, Neutral, and Surprised.
